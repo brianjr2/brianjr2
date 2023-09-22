@@ -18,6 +18,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📺 Certifications</h2>
+- [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/92L2ACZX9EM2)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
