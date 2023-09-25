@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Part-time Cybersecurity studentl</a>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity enthusiast</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
