@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity enthusiast</a>
+<h1>Hi, I'm Brian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Part-time cybersecurity student</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -13,7 +13,7 @@
 <h2> Certifications</h2>
 - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/92L2ACZX9EM2)
 
-<h2>📺 Popular YouTube Videos</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
