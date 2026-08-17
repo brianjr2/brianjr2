@@ -1,5 +1,32 @@
 <h1>Hi, I'm Brian! Aspiring IT Support Professional | CompTIA A+ Student</a>
 
+I'm currently transitioning into the IT field and building hands-on experience
+in IT support, troubleshooting, networking, systems administration, and
+automation.
+
+I'm currently studying for the CompTIA A+ certification and using hands-on
+labs and projects to develop practical technical skills.
+
+My long-term goal is to build a career in IT and eventually specialize in
+cloud security.
+
+---
+
+## 🖥️ Currently Learning
+
+- CompTIA A+
+- Windows troubleshooting
+- Hardware troubleshooting
+- Networking fundamentals
+- TCP/IP
+- DNS & DHCP
+- Wi-Fi troubleshooting
+- PowerShell
+- Active Directory
+- Virtualization
+- IT support and troubleshooting
+
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Incident Handler's Journal</b>
@@ -17,8 +44,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 
@@ -27,7 +53,7 @@
 <!--
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
