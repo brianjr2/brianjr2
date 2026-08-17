@@ -1,16 +1,5 @@
 <h1>Hi, I'm Brian! Aspiring IT Support Professional | CompTIA A+ Student</a>
 
-I'm currently transitioning into the IT field and building hands-on experience
-in IT support, troubleshooting, networking, systems administration, and
-automation.
-
-I'm currently studying for the CompTIA A+ certification and using hands-on
-labs and projects to develop practical technical skills.
-
-My long-term goal is to build a career in IT and eventually specialize in
-cloud security.
-
----
 
 ## 🖥️ Currently Learning
 
