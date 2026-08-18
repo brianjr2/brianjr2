@@ -5,10 +5,14 @@
 
 My hands-on IT support projects and home labs:
 
-- Windows & VirtualBox Lab — Coming Soon
-- Networking Lab — Coming Soon
-- Active Directory Lab — Coming Soon
-- PowerShell IT Support Toolkit — Coming Soon
+- **Windows & VirtualBox Lab** — Coming Soon
+- **Networking Lab** — Coming Soon
+- **Active Directory Home Lab** — Coming Soon
+- **DNS & DHCP Troubleshooting Lab** — Coming Soon
+- **PowerShell IT Support Toolkit** — Coming Soon
+- **Help Desk & Ticketing Simulation** — Coming Soon
+- **IT Troubleshooting Scenarios** — Coming Soon
+- **Azure Fundamentals Lab** — Coming Soon
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
