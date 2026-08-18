@@ -1,19 +1,14 @@
 <h1>Hi, I'm Brian! Aspiring IT Support Professional | CompTIA A+ Student</a>
 
 
-## 🖥️ Currently Learning
+## 🛠️ Projects
 
-- CompTIA A+
-- Windows troubleshooting
-- Hardware troubleshooting
-- Networking fundamentals
-- TCP/IP
-- DNS & DHCP
-- Wi-Fi troubleshooting
-- PowerShell
-- Active Directory
-- Virtualization
-- IT support and troubleshooting
+My hands-on IT support projects and home labs:
+
+- Windows & VirtualBox Lab — Coming Soon
+- Networking Lab — Coming Soon
+- Active Directory Lab — Coming Soon
+- PowerShell IT Support Toolkit — Coming Soon
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
